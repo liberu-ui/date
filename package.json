@@ -1,0 +1,26 @@
+{
+  "name": "@enso-ui/date",
+  "version": "1.0.0",
+  "description": "Plugin for date",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enso-ui/date.git"
+  },
+  "keywords": [
+    "date",
+    "enso",
+    "enso-ui"
+  ],
+  "author": "Adrian Ocneanu <aocneanu@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enso-ui/date/issues"
+  },
+  "homepage": "https://github.com/enso-ui/date#readme",
+  "dependencies": {
+    "date-fns": "^2.0.0"
+  }
+}
