@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/date",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Plugin for date",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
