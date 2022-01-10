@@ -22,7 +22,6 @@ const map = [
     { replace: 'e', with: 'zzzz' }, // Timezone
 ];
 
-
 const segments = formatStr => formatStr
     .split(new RegExp([' ', '-', '/', ':', ',', '[.]'].join('|'), ''))
     .sort((a, b) => b.length - a.length); // ASC -> a - b; DESC -> b - a
