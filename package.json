@@ -1,5 +1,5 @@
 {
-  "name": "@enso-ui/date",
+  "name": "@cgdsoftware/date",
   "version": "1.0.9",
   "description": "Plugin for date",
   "scripts": {
