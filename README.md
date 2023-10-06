@@ -1,10 +1,10 @@
 # Date
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/date.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/date.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/date.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/date.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/date.svg) 
+![npm license](https://img.shields.io/npm/l/@liberu-ui/date.svg) 
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/date.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/date.svg) 
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/date.svg) 
+![npm version](https://img.shields.io/npm/v/@liberu-ui/date.svg) 
 
 Date plugin
 

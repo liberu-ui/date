@@ -7,19 +7,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/enso-ui/date.git"
+    "url": "git+https://github.com/liberu-ui/date.git"
   },
   "keywords": [
     "date",
     "enso",
-    "enso-ui"
+    "liberu-ui"
   ],
   "author": "Adrian Ocneanu <aocneanu@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/enso-ui/date/issues"
+    "url": "https://github.com/liberu-ui/date/issues"
   },
-  "homepage": "https://github.com/enso-ui/date#readme",
+  "homepage": "https://github.com/liberu-ui/date#readme",
   "dependencies": {
     "date-fns": "^2.0.0"
   },
