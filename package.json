@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/date",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Plugin for date",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
